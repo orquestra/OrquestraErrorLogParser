@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrquestraErrorLogParses", "OrquestraErrorLogParses.csproj", "{20E5D7C7-E29C-4D09-BDCC-9B429E309596}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrquestraErrorLogParser", "OrquestraErrorLogParser.csproj", "{20E5D7C7-E29C-4D09-BDCC-9B429E309596}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrquestraErrorLogTest", "OrquestraErrorLogTest\OrquestraErrorLogTest.csproj", "{393DAC9C-7C22-478B-813A-D6DA191F5DF3}"
 EndProject

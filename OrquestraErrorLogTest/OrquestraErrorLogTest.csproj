@@ -57,9 +57,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OrquestraErrorLogParses.csproj">
+    <ProjectReference Include="..\OrquestraErrorLogParser.csproj">
       <Project>{20E5D7C7-E29C-4D09-BDCC-9B429E309596}</Project>
-      <Name>OrquestraErrorLogParses</Name>
+      <Name>OrquestraErrorLogParser</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

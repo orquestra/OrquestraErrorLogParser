@@ -8,8 +8,8 @@
     <ProjectGuid>{20E5D7C7-E29C-4D09-BDCC-9B429E309596}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OrquestraErrorLogParses</RootNamespace>
-    <AssemblyName>OrquestraErrorLogParses</AssemblyName>
+    <RootNamespace>OrquestraErrorLogParser</RootNamespace>
+    <AssemblyName>OrquestraErrorLogParser</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -96,6 +96,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="OrquestraErrorLogParses_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">

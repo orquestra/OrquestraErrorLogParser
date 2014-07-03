@@ -7,8 +7,8 @@ D:\Projetos\Orquestra2008\App\OrquestraErrorLogTest\obj\Debug\OrquestraErrorLogT
 D:\Projetos\Orquestra2008\App\OrquestraErrorLogTest\obj\Debug\OrquestraErrorLogTest.pdb
 D:\Projects\OrquestraErrorLogParser\OrquestraErrorLogTest\bin\Debug\OrquestraErrorLogTest.dll
 D:\Projects\OrquestraErrorLogParser\OrquestraErrorLogTest\bin\Debug\OrquestraErrorLogTest.pdb
-D:\Projects\OrquestraErrorLogParser\OrquestraErrorLogTest\bin\Debug\OrquestraErrorLogParses.exe
-D:\Projects\OrquestraErrorLogParser\OrquestraErrorLogTest\bin\Debug\OrquestraErrorLogParses.pdb
 D:\Projects\OrquestraErrorLogParser\OrquestraErrorLogTest\obj\Debug\OrquestraErrorLogTest.csprojResolveAssemblyReference.cache
 D:\Projects\OrquestraErrorLogParser\OrquestraErrorLogTest\obj\Debug\OrquestraErrorLogTest.dll
 D:\Projects\OrquestraErrorLogParser\OrquestraErrorLogTest\obj\Debug\OrquestraErrorLogTest.pdb
+D:\Projects\OrquestraErrorLogParser\OrquestraErrorLogTest\bin\Debug\OrquestraErrorLogParser.exe
+D:\Projects\OrquestraErrorLogParser\OrquestraErrorLogTest\bin\Debug\OrquestraErrorLogParser.pdb

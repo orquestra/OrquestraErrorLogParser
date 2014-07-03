@@ -1,0 +1,12 @@
+D:\Projects\OrquestraErrorLogParser\bin\Debug\OrquestraErrorLogParser.exe.manifest
+D:\Projects\OrquestraErrorLogParser\bin\Debug\OrquestraErrorLogParser.application
+D:\Projects\OrquestraErrorLogParser\bin\Debug\OrquestraErrorLogParser.exe
+D:\Projects\OrquestraErrorLogParser\bin\Debug\OrquestraErrorLogParser.pdb
+D:\Projects\OrquestraErrorLogParser\obj\x86\Debug\OrquestraErrorLogParser.csprojResolveAssemblyReference.cache
+D:\Projects\OrquestraErrorLogParser\obj\x86\Debug\OrquestraErrorLogParses.Form1.resources
+D:\Projects\OrquestraErrorLogParser\obj\x86\Debug\OrquestraErrorLogParser.Properties.Resources.resources
+D:\Projects\OrquestraErrorLogParser\obj\x86\Debug\OrquestraErrorLogParser.csproj.GenerateResource.Cache
+D:\Projects\OrquestraErrorLogParser\obj\x86\Debug\OrquestraErrorLogParser.exe.manifest
+D:\Projects\OrquestraErrorLogParser\obj\x86\Debug\OrquestraErrorLogParser.application
+D:\Projects\OrquestraErrorLogParser\obj\x86\Debug\OrquestraErrorLogParser.exe
+D:\Projects\OrquestraErrorLogParser\obj\x86\Debug\OrquestraErrorLogParser.pdb
