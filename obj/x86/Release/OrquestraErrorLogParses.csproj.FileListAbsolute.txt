@@ -1,0 +1,9 @@
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogParses\bin\Release\OrquestraErrorLogParses.exe
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogParses\bin\Release\OrquestraErrorLogParses.pdb
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogParses\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogParses\obj\x86\Release\OrquestraErrorLogParses.Form1.resources
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogParses\obj\x86\Release\OrquestraErrorLogParses.Properties.Resources.resources
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogParses\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogParses\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogParses\obj\x86\Release\OrquestraErrorLogParses.exe
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogParses\obj\x86\Release\OrquestraErrorLogParses.pdb

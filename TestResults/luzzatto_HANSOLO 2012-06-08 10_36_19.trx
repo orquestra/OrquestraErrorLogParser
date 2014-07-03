@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2488f2bd-6737-4ad6-9a80-2fa436f6ee45" name="luzzatto@HANSOLO 2012-06-08 10:36:19" runUser="CRYO\luzzatto" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6baef2ed-61ce-4af8-a820-f385f771fb01">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="luzzatto_HANSOLO 2012-06-08 10_36_19">
+      <DeploymentItem filename="D:\Projetos\Orquestra2008\App\OrquestraErrorLogParses\bin\Debug\OrquestraErrorLogParses.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-06-08T10:36:19.0100348-03:00" queuing="2012-06-08T10:36:25.4861828-03:00" start="2012-06-08T10:36:25.7000363-03:00" finish="2012-06-08T10:36:34.3684268-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="2" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="1" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="HANSOLO" outcome="Error" timestamp="2012-06-08T10:36:34.3664738-03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DirectoryExistsTest" storage="d:\projetos\orquestra2008\app\orquestraerrorlogtest\bin\debug\orquestraerrorlogtest.dll" id="6f84f001-a200-d646-0996-4ef3ffb4b1de">
+      <Execution id="1235fc46-b7f6-4906-a408-7a0f5c232c86" />
+      <TestMethod codeBase="D:/Projetos/Orquestra2008/App/OrquestraErrorLogTest/bin/Debug/OrquestraErrorLogTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OrquestraErrorLogTest.DirectoryValidationTest, OrquestraErrorLogTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DirectoryExistsTest" />
+    </UnitTest>
+    <UnitTest name="DirectoryHasFilesTest" storage="d:\projetos\orquestra2008\app\orquestraerrorlogtest\bin\debug\orquestraerrorlogtest.dll" id="c56ef1ec-0a2a-5f00-58d8-9bce10cd8ec7">
+      <Execution id="13f747db-5ac4-49f6-b01e-bfc55af013ec" />
+      <TestMethod codeBase="D:/Projetos/Orquestra2008/App/OrquestraErrorLogTest/bin/Debug/OrquestraErrorLogTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OrquestraErrorLogTest.DirectoryValidationTest, OrquestraErrorLogTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DirectoryHasFilesTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6f84f001-a200-d646-0996-4ef3ffb4b1de" executionId="1235fc46-b7f6-4906-a408-7a0f5c232c86" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c56ef1ec-0a2a-5f00-58d8-9bce10cd8ec7" executionId="13f747db-5ac4-49f6-b01e-bfc55af013ec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1235fc46-b7f6-4906-a408-7a0f5c232c86" testId="6f84f001-a200-d646-0996-4ef3ffb4b1de" testName="DirectoryExistsTest" computerName="HANSOLO" duration="00:00:08.5150800" startTime="2012-06-08T10:36:25.8533468-03:00" endTime="2012-06-08T10:36:34.3684268-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1235fc46-b7f6-4906-a408-7a0f5c232c86">
+    </UnitTestResult>
+    <UnitTestResult executionId="13f747db-5ac4-49f6-b01e-bfc55af013ec" testId="c56ef1ec-0a2a-5f00-58d8-9bce10cd8ec7" testName="DirectoryHasFilesTest" computerName="HANSOLO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="13f747db-5ac4-49f6-b01e-bfc55af013ec">
+    </UnitTestResult>
+  </Results>
+</TestRun>

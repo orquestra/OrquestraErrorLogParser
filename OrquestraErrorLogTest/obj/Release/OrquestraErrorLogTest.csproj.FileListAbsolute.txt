@@ -1,0 +1,7 @@
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogTest\bin\Release\OrquestraErrorLogTest.dll
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogTest\bin\Release\OrquestraErrorLogTest.pdb
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogTest\bin\Release\OrquestraErrorLogParses.exe
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogTest\bin\Release\OrquestraErrorLogParses.pdb
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogTest\obj\Release\ResolveAssemblyReference.cache
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogTest\obj\Release\OrquestraErrorLogTest.dll
+D:\Projetos\Orquestra2008\App\OrquestraErrorLogTest\obj\Release\OrquestraErrorLogTest.pdb
