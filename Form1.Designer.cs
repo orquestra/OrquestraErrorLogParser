@@ -35,8 +35,8 @@
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.txtDetails = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -100,6 +100,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
+            // txtDetails
+            // 
+            this.txtDetails.Enabled = false;
+            this.txtDetails.Location = new System.Drawing.Point(6, 157);
+            this.txtDetails.Multiline = true;
+            this.txtDetails.Name = "txtDetails";
+            this.txtDetails.Size = new System.Drawing.Size(437, 167);
+            this.txtDetails.TabIndex = 5;
+            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -112,15 +121,6 @@
     " será gerado na pasta selecionada.";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // txtDetails
-            // 
-            this.txtDetails.Enabled = false;
-            this.txtDetails.Location = new System.Drawing.Point(6, 157);
-            this.txtDetails.Multiline = true;
-            this.txtDetails.Name = "txtDetails";
-            this.txtDetails.Size = new System.Drawing.Size(437, 167);
-            this.txtDetails.TabIndex = 5;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -129,7 +129,7 @@
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
-            this.Text = "Log 2 CSV";
+            this.Text = "Orquestra Log Parser";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
