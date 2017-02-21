@@ -58,7 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OrquestraErrorLogParser.csproj">
-      <Project>{20E5D7C7-E29C-4D09-BDCC-9B429E309596}</Project>
+      <Project>{20e5d7c7-e29c-4d09-bdcc-9b429e309596}</Project>
       <Name>OrquestraErrorLogParser</Name>
     </ProjectReference>
   </ItemGroup>
